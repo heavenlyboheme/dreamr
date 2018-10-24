@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  dream_title: MyString
+  dream_details: MyString
+
+two:
+  dream_title: MyString
+  dream_details: MyString
